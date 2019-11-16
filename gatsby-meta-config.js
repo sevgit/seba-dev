@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Bee starter`,
-  description: `Blog posted about ...`,
+  title: `Bastian's Dev Diary`,
+  description: `Just another Blog made with Gatsby :)`,
   author: `Sebastián Ventura`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `Code, music and an enormous supply of curiosity.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: `bastianventura`, // Your Twitter account
@@ -12,10 +12,10 @@ module.exports = {
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
-  /* comment: {
+  comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
-  }, */
+    utterances: '', // Your repository for archive comment
+  },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
