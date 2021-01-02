@@ -1,9 +1,9 @@
 module.exports = {
-  title: `Bastian's Dev Diary`,
+  title: `Dev thoughts and trinkets`,
   description: `Just another Blog made with Gatsby :)`,
   author: `Sebastián Ventura`,
   introduction: `Code, music and an enormous supply of curiosity.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://sebaventura.dev`, // Your blog site url
   social: {
     twitter: `bastianventura`, // Your Twitter account
     github: `sevgit`, // Your GitHub account

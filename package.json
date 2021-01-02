@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-bee",
   "private": true,
-  "description": "Gatsby blog starter template",
+  "description": "Dev thoughts and playground",
   "version": "0.1.0",
-  "author": "Jbee[JaeYeopHan]<ljyhanll@gmail.com>",
+  "author": "Sebastián Ventura",
   "bugs": {
     "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
   },
